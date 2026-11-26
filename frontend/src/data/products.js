@@ -1,0 +1,10 @@
+export const products = [
+  { id: 1, name: 'HAVIT HV-G92 Gamepad', category: 'Gaming', price: 120, oldPrice: 160, discount: 25, rating: 4.8, reviews: 88, image: 'https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=700&q=85', color: 'lavender' },
+  { id: 2, name: 'AK-900 Wired Keyboard', category: 'Accessories', price: 64, oldPrice: 80, discount: 20, rating: 4.6, reviews: 75, image: 'https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=700&q=85', color: 'cream' },
+  { id: 3, name: 'IPS LCD Gaming Monitor', category: 'Gaming', price: 370, oldPrice: 400, discount: 8, rating: 4.9, reviews: 99, image: 'https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=700&q=85', color: 'blue' },
+  { id: 4, name: 'S-Series Comfort Chair', category: 'Furniture', price: 375, oldPrice: 400, discount: 6, rating: 4.7, reviews: 99, image: 'https://images.unsplash.com/photo-1598300053653-7c7b6f0c1d42?auto=format&fit=crop&w=700&q=85', color: 'sand' },
+  { id: 5, name: 'The north coat', category: 'Fashion', price: 260, oldPrice: 360, discount: 28, rating: 4.8, reviews: 65, image: 'https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=700&q=85', color: 'sage' },
+  { id: 6, name: 'Gucci duffle bag', category: 'Fashion', price: 960, oldPrice: 1160, discount: 17, rating: 4.9, reviews: 65, image: 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=700&q=85', color: 'peach' },
+  { id: 7, name: 'RGB liquid CPU Cooler', category: 'Accessories', price: 160, oldPrice: 170, discount: 6, rating: 4.6, reviews: 65, image: 'https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=700&q=85', color: 'mint' },
+  { id: 8, name: 'Small BookShelf', category: 'Furniture', price: 360, oldPrice: 400, discount: 10, rating: 4.8, reviews: 88, image: 'https://images.unsplash.com/photo-1594620302200-9a762244a156?auto=format&fit=crop&w=700&q=85', color: 'cream' },
+]
